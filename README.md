@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
 <h1 align="center">Hi 👋, I'm Tiffany, but I prefer Tiff.</h1>
 <h3 align="center">I am a Junior Software Developer and a Cyber Security Student.</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/08/giphy-5.gif ">
